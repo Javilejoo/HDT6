@@ -17,6 +17,7 @@ public class controlador {
                 case 2://Mostrar categoria del producto
                 break;
                 case 3://Categoria y cantidad de carrito
+                hash.carrito();
                 break;
                 case 4://Categoria y cantidad ordenada en carrito
                 break;
